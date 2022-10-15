@@ -1,0 +1,15 @@
+D:\projects\Examples\Home work 8\Task 56\bin\Debug\net6.0\Task 56.exe
+D:\projects\Examples\Home work 8\Task 56\bin\Debug\net6.0\Task 56.deps.json
+D:\projects\Examples\Home work 8\Task 56\bin\Debug\net6.0\Task 56.runtimeconfig.json
+D:\projects\Examples\Home work 8\Task 56\bin\Debug\net6.0\Task 56.dll
+D:\projects\Examples\Home work 8\Task 56\bin\Debug\net6.0\Task 56.pdb
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.csproj.AssemblyReference.cache
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.AssemblyInfoInputs.cache
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.AssemblyInfo.cs
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.csproj.CoreCompileInputs.cache
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.dll
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\refint\Task 56.dll
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.pdb
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\Task 56.genruntimeconfig.cache
+D:\projects\Examples\Home work 8\Task 56\obj\Debug\net6.0\ref\Task 56.dll
